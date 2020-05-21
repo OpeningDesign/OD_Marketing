@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2340"
+   height="3780"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="C:\Dropbox\GitHub\OpeningDesign_Admin\Marketing\Job Signs\logo3.png"
+   inkscape:export-xdpi="400"
+   inkscape:export-ydpi="400">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4390">
+      <stop
+         style="stop-color:#86acce;stop-opacity:1;"
+         offset="0"
+         id="stop4392" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4378"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#c7d5e0;stop-opacity:1;"
+         offset="0"
+         id="stop4380" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4372"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#5589ba;stop-opacity:1;"
+         offset="0"
+         id="stop4374" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4372"
+       id="linearGradient4376"
+       x1="-841.4375"
+       y1="480.29688"
+       x2="-465.1875"
+       y2="480.29688"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0266885,0,0,1.0266885,1446.0086,-749.18214)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4378"
+       id="linearGradient4382"
+       x1="-908.4375"
+       y1="292.35938"
+       x2="-745.5625"
+       y2="292.35938"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0266885,0,0,1.0266885,1446.0086,-749.18214)" />
+    <linearGradient
+       id="linearGradient4378-1">
+      <stop
+         style="stop-color:#bdd2db;stop-opacity:1;"
+         offset="0"
+         id="stop4380-6" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4372-9">
+      <stop
+         style="stop-color:#86abce;stop-opacity:1;"
+         offset="0"
+         id="stop4374-4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4410">
+      <stop
+         style="stop-color:#bdd2db;stop-opacity:1;"
+         offset="0"
+         id="stop4412" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4378-9">
+      <stop
+         style="stop-color:#bdd2db;stop-opacity:1;"
+         offset="0"
+         id="stop4380-4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4372-94">
+      <stop
+         style="stop-color:#86abce;stop-opacity:1;"
+         offset="0"
+         id="stop4374-1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4410-7">
+      <stop
+         style="stop-color:#bdd2db;stop-opacity:1;"
+         offset="0"
+         id="stop4412-6" />
+    </linearGradient>
+    <filter
+       id="filter4619"
+       inkscape:label="Inner Shadow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Adds a colorizable drop shadow inside"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4621"
+         stdDeviation="4"
+         result="result8" />
+      <feOffset
+         id="feOffset4623"
+         dx="4"
+         dy="4"
+         result="result11" />
+      <feComposite
+         id="feComposite4625"
+         in2="result11"
+         result="result6"
+         in="SourceGraphic"
+         operator="in" />
+      <feFlood
+         id="feFlood4627"
+         result="result10"
+         in="result6"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)" />
+      <feBlend
+         id="feBlend4629"
+         in2="result10"
+         mode="normal"
+         in="result6"
+         result="result12" />
+      <feComposite
+         id="feComposite4631"
+         in2="SourceGraphic"
+         result="result2"
+         operator="in" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="1302.5734"
+     inkscape:cy="1770.7351"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="in"
+     inkscape:snap-global="false"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4487"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       units="in"
+       spacingx="1in"
+       spacingy="1in" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,2727.6403)">
+    <path
+       style="fill:url(#linearGradient4376);fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4619)"
+       d="m 898.7517,-533.93052 0,229.07985 c -33.6313,-31.21362 -78.6406,-50.30774 -128.1436,-50.30774 -104.0895,0 -188.4936,84.40411 -188.4936,188.49358 0,104.089471 84.4041,188.461501 188.4936,188.461501 49.503,0 94.5123,-19.09412 128.1436,-50.30774 l 0,42.22256 69.6544,0 0,-547.642011 -69.6544,0 z m -128.1436,248.45859 c 65.6128,0 118.775,53.19429 118.775,118.8071 0,65.61281 -53.1622,118.775021 -118.775,118.775021 -65.6128,0 -118.8071,-53.162211 -118.8071,-118.775021 0,-65.61281 53.1943,-118.8071 118.8071,-118.8071 z"
+       id="rect3503"
+       inkscape:connector-curvature="0"
+       transform="matrix(2.2178877,0,0,2.2178877,-25.026099,-1222.182)" />
+    <path
+       style="fill:url(#linearGradient4382);fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4619)"
+       d="m 596.9374,-532.61508 c -46.172,0 -83.611,37.43896 -83.611,83.61094 0,46.17198 37.439,83.57885 83.611,83.57885 46.1719,0 83.6109,-37.40687 83.6109,-83.57885 0,-46.17198 -37.439,-83.61094 -83.6109,-83.61094 z m 0,41.80548 c 23.0859,0 41.8054,18.71947 41.8054,41.80546 0,23.08599 -18.7195,41.77338 -41.8054,41.77338 -23.086,0 -41.8055,-18.68739 -41.8055,-41.77338 0,-23.08599 18.7195,-41.80546 41.8055,-41.80546 z"
+       id="path3509"
+       inkscape:connector-curvature="0"
+       transform="matrix(2.2178877,0,0,2.2178877,-25.026099,-1222.182)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4288"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4372);fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(2.8141211,0,0,2.8141211,2924.6498,-2329.7561)"><flowRegion
+         id="flowRegion4290"><rect
+           id="rect4292"
+           width="753.90845"
+           height="112.42341"
+           x="-974.28571"
+           y="849.50507"
+           style="fill:url(#linearGradient4372);fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4294"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:url(#linearGradient4372);fill-opacity:1;font-family:Century Gothic;-inkscape-font-specification:Century Gothic Bold">opening<flowSpan
+   style="fill:url(#linearGradient4372)"
+   id="flowSpan4384">design</flowSpan>.com</flowPara></flowRoot>    <flowRoot
+       transform="matrix(4.6388498,0,0,4.6388498,4694.3256,-3676.8252)"
+       xml:space="preserve"
+       id="flowRoot4288-1"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4378);fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion4290-0"><rect
+           id="rect4292-5"
+           width="753.90845"
+           height="112.42341"
+           x="-974.28571"
+           y="849.50507"
+           style="fill:url(#linearGradient4378);fill-opacity:1" /></flowRegion><flowPara
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient4378);fill-opacity:1;font-family:Century Gothic;-inkscape-font-specification:Century Gothic"
+         id="flowPara4452">architecture</flowPara></flowRoot>    <flowRoot
+       transform="matrix(6.1116395,0,0,5.6785618,6143.7333,-4298.5932)"
+       xml:space="preserve"
+       id="flowRoot4288-5"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4378);fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion4290-8"><rect
+           id="rect4292-59"
+           width="753.90845"
+           height="112.42341"
+           x="-974.28571"
+           y="849.50507"
+           style="fill:url(#linearGradient4378);fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4294-8"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient4378);fill-opacity:1;font-family:Century Gothic;-inkscape-font-specification:Century Gothic">wisconsin</flowPara></flowRoot>  </g>
+</svg>
