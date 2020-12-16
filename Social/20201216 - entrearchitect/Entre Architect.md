@@ -36,7 +36,7 @@ Also feel free to hire them directly.  I cannot recommend them enough.
 
 ...
 
-I'm excited about this approach. I think it would be great way for a firm to get help with their projects, but at the same time learning how to use an already established template, thus avoid reinventing the wheel.  A template, furthermore, that will only gain in suffictication of the years and will always be open source.
+I'm excited about this approach. I think it would be great way for a firm to get help with their projects, but at the same time learning how to use an already established template, thus avoid reinventing the wheel.  A template, furthermore, that will only gain in sophistication of years of improvement and feedback and will always be open source.
 
 Furthermore, it could be a win/win for firms, in that, I could see the potential of teaming up with other firms that share this template and processes, in order to applying for RFPs that might be outside a single firm's capabilities. 
 
