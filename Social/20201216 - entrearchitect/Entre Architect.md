@@ -1,6 +1,6 @@
 Hi, I would like to try something different.
 
-*tldr: Looking for work that allows the codevelopment of an open source Revit template.*
+*tldr: Looking for work that allows for the codevelopment of an open source Revit template.*
 
 As some of you already know, I have developed and maintained the following open source Revit template over the years.
 
@@ -12,7 +12,7 @@ I assume, however, that adopting someone else's template is hard, because there'
 
 In this light, I would like to try something different. 
 
-I was wondering if there's any firms that are both looking for additional help on a project, but are also interested in potentially adopting an existing Revit template as well.
+I was wondering if there's any firms that are both looking for additional help on a project, but are also interested in potentially adopting this existing Revit template as well.
 
 I would like to propose an approach where I could help manage one of your firm's projects, all while helping your firm better understand how to use this template, as well as just helping with Revit in general. 
 
@@ -21,6 +21,8 @@ I have practiced architecture for 25years, and have completed a wide varity of p
 Portfolio: http://openingdesign.com/gallery/
 
 My particular skill and passion is harnessing technology to streamline workflows.
+
+Linkedin: https://www.linkedin.com/in/ryanschultz/
 
 I also have a small team that I have worked extensively over the years, that that could also benefit your firm depending on the project size.  We have dialed into a nice, tailored, remote workflow over the years, of which we can also share with your firm.
 
